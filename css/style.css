@@ -391,9 +391,13 @@ footer {
 }
 
 .feedback-social {
-  margin-top: 90px;
+  margin-top: 70px;
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.feedback-social p {
+  margin-bottom: 10px;
 }
 
 .feedback-fb {
