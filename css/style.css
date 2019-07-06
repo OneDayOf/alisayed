@@ -271,7 +271,6 @@ footer {
 
 .designer {
   width: 33%;
-  max-width: 458px;
   height: 100%;
   background: url("../img/bg-5.jpg") no-repeat center top/cover;
   float: left;
@@ -307,7 +306,6 @@ footer {
 
 .feedback {
   width: 67%;
-  max-width: 910px;
   height: 100%;
   background: url("../img/bg-6.jpg") no-repeat center top/cover;
   float: right;
